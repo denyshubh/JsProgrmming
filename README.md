@@ -3,5 +3,4 @@ The exercise questions are taken from the following repo https://github.com/Step
 
 # Run $ npm i -g jest
 So as to run the test case
-i am here
 
